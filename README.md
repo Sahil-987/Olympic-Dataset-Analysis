@@ -1,6 +1,6 @@
 # Olympics Dataset Analysis
 
-<img src = "Images/olympic-rings.jpg" width = "500">
+<img src = "Images/olympic-rings-large.jpg" width = "500">
 
 ## Which client/dataset did you select and why?
 Olympic Dataset, because I have an inclination in sports and would like to make a career out of it. Using this dataset I can create a great project that can shine in my resume and plus sports is a field which I really like
