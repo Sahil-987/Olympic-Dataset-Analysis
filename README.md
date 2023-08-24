@@ -15,3 +15,7 @@ I used Pandas library for reading the data, which is in csv file. To clean the d
 df.describe()
 df.info()
 merge two df_events and df_regions
+
+
+
+# Note : changed git repo structure (local)
